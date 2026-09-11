@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: python-flaskapp
-          image: laurenx122/python-flaskapp:v7-6f13cc0
+          image: laurenx122/python-flaskapp:v302-6f13cc0
           ports:
             - containerPort: 5000
