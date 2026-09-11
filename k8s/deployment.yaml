@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: python-flaskapp
-          image: mitchlauren/python-flaskapp:smoke-test
+          image: mitchlauren/python-flaskapp:v14-0d47d12
           ports:
             - containerPort: 5000
